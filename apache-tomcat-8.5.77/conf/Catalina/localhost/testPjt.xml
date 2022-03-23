@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="C:\devtool\apache-tomcat-8.5.77\wtpwebapps\testPjt" path="/testPjt" reloadable="true" source="org.eclipse.jst.jee.server:testPjt"/>
